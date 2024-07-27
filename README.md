@@ -1,2 +1,2 @@
 # Scientific-Calculator
-Project on Scientific Calculator using Java 
+Project on Scientific Calculator GUI using JavaFX
