@@ -34,7 +34,6 @@ This project is a Scientific Calculator implemented using JavaFX for the GUI. It
 
 ## Usage
 
-```markdown
 1. **Launching the Application**:
     - Run the `ScientificCalculator` class to start the application.
     - A window titled "Scientific Calculator" will appear with a display and buttons for numbers, basic arithmetic operations, and scientific functions.
